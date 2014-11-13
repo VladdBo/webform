@@ -2,6 +2,7 @@
 name = Webform
 description = Enables the creation of forms and questionnaires.
 core = 7.x
+version = "7.x-4.1"
 package = Webform
 configure = admin/config/content/webform
 php = 5.3
